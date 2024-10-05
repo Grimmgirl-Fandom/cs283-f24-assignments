@@ -6406,8 +6406,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1175572883}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.0046963687, y: 0.99458784, z: 0.051661342, w: -0.090022825}
-  m_LocalPosition: {x: 33.644924, y: -11.384062, z: 17.883862}
+  m_LocalRotation: {x: 0.08476023, y: 0.6585185, z: 0.07496479, w: -0.7440091}
+  m_LocalPosition: {x: 2.3017986, y: -40.152454, z: 5.3886604}
   m_LocalScale: {x: 1, y: 1.7256898, z: 1.0483481}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6421,7 +6421,7 @@ Skybox:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1175572883}
   m_Enabled: 1
-  m_CustomSkybox: {fileID: 15303, guid: 0000000000000000f000000000000000, type: 0}
+  m_CustomSkybox: {fileID: 0}
 --- !u!1001 &1208974831
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6572,8 +6572,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1306475213}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.0046963687, y: 0.99458784, z: 0.051661342, w: -0.090022825}
-  m_LocalPosition: {x: 33.644924, y: -2.00953, z: 17.883862}
+  m_LocalRotation: {x: 0.08476023, y: 0.6585185, z: 0.07496479, w: -0.7440091}
+  m_LocalPosition: {x: 27.887535, y: -47.709812, z: 20.919258}
   m_LocalScale: {x: 1, y: 1.7256898, z: 1.0483481}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6957,7 +6957,7 @@ Camera:
     m_Bits: 4294967295
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
+  m_TargetDisplay: 1
   m_TargetEye: 3
   m_HDR: 1
   m_AllowMSAA: 1
@@ -6988,7 +6988,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1748963361}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 24b5a8960497b7e4c9ffd941849a942e, type: 3}
   m_Name: 
