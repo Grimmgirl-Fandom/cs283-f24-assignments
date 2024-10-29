@@ -16,6 +16,10 @@ SpringFollowCamera.cs
 Character assets for Banna Man:
 https://assetstore.unity.com/packages/3d/characters/humanoids/banana-man-196830
 
+
+https://github.com/user-attachments/assets/daf0ce76-7a52-4f19-9fb2-1d50dfe95ca0
+
+
 <video width="320" height="240" controls>
   <source src="RigidCamera.mp4" type="video/mp4">
 </video>
