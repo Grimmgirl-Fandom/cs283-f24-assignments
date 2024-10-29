@@ -17,6 +17,10 @@ Character assets for Banna Man:
 https://assetstore.unity.com/packages/3d/characters/humanoids/banana-man-196830
 
 
+
+https://github.com/user-attachments/assets/320c2a1c-b2da-40f2-b9c6-3b55071d68fb
+
+
 https://github.com/user-attachments/assets/daf0ce76-7a52-4f19-9fb2-1d50dfe95ca0
 
 
