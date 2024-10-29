@@ -28,6 +28,10 @@ A07
 New scripts:
 PlayerMotionController.cs
 
+
+https://github.com/user-attachments/assets/9d4bb65a-3c88-4b67-948d-c6e3e596f4f1
+
+
 <video width="320" height="240" controls>
   <source src="motion.mp4" type="video/mp4">
 </video>
