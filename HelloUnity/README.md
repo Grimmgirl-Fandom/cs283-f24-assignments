@@ -48,6 +48,7 @@ https://github.com/user-attachments/assets/9d4bb65a-3c88-4b67-948d-c6e3e596f4f1
 <video width="320" height="240" controls>
   <source src="motion.mp4" type="video/mp4">
 </video>
+<<<<<<< HEAD
 
 A08
 New Scripts:
@@ -57,3 +58,5 @@ CollectionGame.cs
 banana assests: https://assetstore.unity.com/packages/3d/food-props-163295
 
 
+=======
+>>>>>>> 04827d3605bda033b87ec748d3810bd537a63579
