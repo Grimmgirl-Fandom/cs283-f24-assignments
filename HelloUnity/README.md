@@ -59,5 +59,16 @@ banana assests: https://assetstore.unity.com/packages/3d/food-props-163295
 
 https://github.com/user-attachments/assets/ad9633c8-d2e0-4529-ad0b-d22433aec318
 
+A09
+New scripts:
+Wander.cs
+
+Bannana NPC assets https://assetstore.unity.com/packages/3d/characters/party-fruits-party-game-characters-249814
+
+
+https://github.com/user-attachments/assets/3c72de1b-3b27-4e0c-bf07-67259b4c657d
+
+
+
 
 
