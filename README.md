@@ -1,8 +1,27 @@
-hello I made it this far yay# cs283-f24-assignments
-Assignment framework for CS283 Game Programming
+
+I have too many readmes. I should fix that later. Yes I am putting this here.
+
+See new files:
+PlayerControls.cs
+RigidFollowCamera.cs
+SpringFollowCamera.cs
+
+Character assets for Banna Man:
+https://assetstore.unity.com/packages/3d/characters/humanoids/banana-man-196830
+
+<video width="320" height="240" controls>
+  <source src="RigidCamera.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="SpringCamera.mp4" type="video/mp4">
+</video>
 
 
-Here is the gif of the paricle system from assignment one. Note I had to take a video and turn it into a gif because unity doesnt allow you to export one.
+A07
+New scripts:
+PlayerMotionController.cs
 
-
-<img src="particle.gif" align="left"/>
+<video width="320" height="240" controls>
+  <source src="motion.mp4" type="video/mp4">
+</video>
