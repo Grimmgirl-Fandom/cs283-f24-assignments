@@ -69,6 +69,15 @@ Bannana NPC assets https://assetstore.unity.com/packages/3d/characters/party-fru
 https://github.com/user-attachments/assets/3c72de1b-3b27-4e0c-bf07-67259b4c657d
 
 
+A10
+New scripts:
+BehaviorUnique.cs
+BehaviorMinion.cs
+
+
+https://github.com/user-attachments/assets/22dd1f09-092f-45e2-9ee7-848d84eb239a
+
+
 
 
 
