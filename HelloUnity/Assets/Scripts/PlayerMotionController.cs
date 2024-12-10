@@ -8,6 +8,8 @@ public class PlayerMotionController : MonoBehaviour
     Animator my_Animator;
     public Boolean isMoving;
     Vector3 v;
+    float mult;
+   public Collect collect;
 
 
     // Start is called before the first frame update
@@ -23,6 +25,8 @@ public class PlayerMotionController : MonoBehaviour
     void Update()
     {
 
+       mult = collect.getNum();
+
         isMoving = false;
 
         if (Input.GetKey("w"))
@@ -31,15 +35,7 @@ public class PlayerMotionController : MonoBehaviour
             isMoving = true;
             //transform.position = transform.position + Time.deltaTime * v;
             CharacterController controller = GetComponent<CharacterController>();
-            controller.Move(v * Time.deltaTime);
-
-        }
-        else if (Input.GetKey("a"))
-        {
-            gameObject.transform.Rotate(0, -1, 0);
-            //isMoving = true;
-            v = Quaternion.Euler(0, -1, 0) * v;
-
+            controller.Move(v * Time.deltaTime*mult);
 
         }
         else if (Input.GetKey("s"))
@@ -48,15 +44,25 @@ public class PlayerMotionController : MonoBehaviour
             isMoving = true;
             //transform.position = transform.position + Time.deltaTime * v;
             CharacterController controller = GetComponent<CharacterController>();
-            controller.Move(v * -1*Time.deltaTime);
+            controller.Move(v * -1*Time.deltaTime*mult);
+
+        }
+
+
+         if (Input.GetKey("a"))
+        {
+            gameObject.transform.Rotate(0, -1, 0);
+            v = Quaternion.Euler(0, -1, 0) * v;
+
 
         }
         else if (Input.GetKey("d"))
         {
             gameObject.transform.Rotate(0, 1, 0);
             v = Quaternion.Euler(0, 1, 0)*v;
-            //isMoving = true;
         }
+
+
 
         if (isMoving == true)
         {
