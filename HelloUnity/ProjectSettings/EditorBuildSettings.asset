@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Banana_The_Game.unity
+    guid: 494e267605f7a114ca3b46a55061272d
+  - enabled: 1
+    path: Assets/Scenes/simple.unity
+    guid: ea559fa071dacd8458846e6e8aca36b8
   m_configObjects: {}
