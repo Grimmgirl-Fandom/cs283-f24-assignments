@@ -1,5 +1,9 @@
 # Banana: The Game
 
+
+https://github.com/user-attachments/assets/f6a46873-35b1-4d7b-83c3-e488665afe53
+
+
 Windows build avalible here: https://www.dropbox.com/scl/fi/2b3ofc4q1ax7yhepjuirv/Grace_BananaTheGame.zip?rlkey=frzy49z0lig8yqehcevf461ge&e=2&st=8vjejwmr&dl=0
 
 Assets:
